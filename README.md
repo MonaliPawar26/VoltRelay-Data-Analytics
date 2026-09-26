@@ -1,10 +1,46 @@
 # VoltRelay Energy — Data Analytics Hackathon 2026
 
-![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Data Analytics](https://img.shields.io/badge/hackathon-submission-brightgreen)
+> **Data-driven analysis to uncover actionable business insights from VoltRelay data.**
 
-An end-to-end, submission-ready data analytics project investigating network performance, service failure root causes, battery equipment degradation, fleet contract economics, and new-rider retention for **VoltRelay Energy**'s EV battery-swapping network across 6 Indian metropolitan cities.
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-013243?logo=numpy)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4c72b0)](https://seaborn.pydata.org/)
+
+---
+
+## 📌 Project Overview
+
+**VoltRelay** is a data analytics project developed as part of the **Data Analytics Hackathon conducted by Gradient Learnings**.
+
+The project focuses on transforming raw data into meaningful analytical insights through a structured workflow covering:
+
+- Data understanding
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Trend and pattern identification
+- Data visualization
+- Insight generation
+- Actionable recommendations
+
+The objective is not only to analyze historical data, but to identify **evidence-backed patterns and business opportunities** that can support better decision-making.
+
+---
+
+## 🎯 Objectives
+
+The key objectives of this project are:
+
+1. **Understand the dataset** and identify important variables and relationships.
+2. **Clean and preprocess the data** to improve analytical reliability.
+3. **Explore trends, distributions, patterns, and relationships** within the data.
+4. **Identify significant insights** supported by quantitative evidence.
+5. **Visualize important findings** through clear and interpretable charts.
+6. **Translate analytical findings into actionable recommendations.**
+7. Present the analysis in a reproducible and professional manner.
 
 ---
 
@@ -47,8 +83,6 @@ voltRelay-data-analytics/
 │   └── tables/                           # Summary analytical tables (.csv & .md)
 ├── report/
 │   └── VoltRelay_Analysis_Report.pdf     # Submission PDF Report
-├── Three_Minute_Video_Script.md          # 3-minute video presentation script
-├── LinkedIn_Post.md                      # Professional LinkedIn submission post
 ├── README.md                             # Project documentation
 └── requirements.txt                      # Dependencies
 ```
